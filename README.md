@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Titli Das.
-- 👀 I’m interested in computing and in IT. 
-- 🌱 I’m currently learning Bachelor of computer appication.
+- 👀 I’m interested in computing and IT. 
+- 🌱 I’m currently learning Bachelor of Computer Application.
   
   
 
